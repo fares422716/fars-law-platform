@@ -1,0 +1,10 @@
+/fars-law-platform
+├── app/
+│   ├── layout.tsx
+│   └── page.tsx
+├── public/
+├── styles/
+├── globals.css
+├── package.json
+├── next.config.js
+├── vercel.json
